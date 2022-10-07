@@ -1,0 +1,31 @@
+{
+  "page": 2,
+  "next": 3,
+  "characters": [
+    {
+      "id": 6,
+      "name_ru": "Люси",
+      "image": "https://cs12.pikabu.ru/post_img/big/2022/09/16/4/1663305204144354288.png"
+    },
+    {
+      "id": 7,
+      "name_ru": "Макима",
+      "image": "https://besthqwallpapers.com/Uploads/27-2-2021/157718/thumb2-4k-makima-artwork-chainsaw-man-manga.jpg"
+    },
+    {
+      "id": 8,
+      "name_ru": "Пауер",
+      "image": "https://cs12.pikabu.ru/post_img/big/2021/07/16/7/1626430646159747203.png"
+    },
+    {
+      "id": 9,
+      "name_ru": "Хитаги Сенджугахара",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivz7tECHerZpTFfKjRXdoG8gLdKSHUf2M6Q&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "name_ru": "Альбедо",
+      "image": "https://c4.wallpaperflare.com/wallpaper/428/317/278/albedo-overlord-overlord-anime-characters-anime-anime-girls-hd-wallpaper-preview.jpg"
+    }
+  ]
+}

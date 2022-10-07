@@ -1,0 +1,31 @@
+{
+  "page": 1,
+  "next": 2,
+  "characters": [
+    {
+      "id": 1,
+      "name_ru": "Рикка Таканаси",
+      "image": "https://cs12.pikabu.ru/post_img/big/2019/02/12/11/1550001195167055961.png"
+    },
+    {
+      "id": 2,
+      "name_ru": "Шинобу Кочо",
+      "image": "https://animecorner.me/wp-content/uploads/2022/02/shinobu-kocho-birthday-illustration-ufotable-demon-slayer.jpg"
+    },
+    {
+      "id": 3,
+      "name_ru": "Джолин Куджо",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/11/JJBA-Jolyne.jpg"
+    },
+    {
+      "id": 4,
+      "name_ru": "Маки Зенин",
+      "image": "https://m.media-amazon.com/images/I/71wDujOAIKS._AC_SY450_.jpg"
+    },
+    {
+      "id": 5,
+      "name_ru": "Хината Хьюга",
+      "image": "https://gamerwall.pro/uploads/posts/2022-03/1646741646_2-gamerwall-pro-p-khinata-khyuga-art-krasivie-oboi-2.jpg"
+    }
+  ]
+}

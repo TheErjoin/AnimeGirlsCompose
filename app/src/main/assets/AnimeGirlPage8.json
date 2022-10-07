@@ -1,0 +1,31 @@
+{
+  "page": 8,
+  "next": null,
+  "characters": [
+    {
+      "id": 36,
+      "name_ru": "Нико Нико Ни",
+      "image": "https://slm-assets.secondlife.com/assets/11348377/lightbox/Ep05_00164.jpg?1427768974"
+    },
+    {
+      "id": 37,
+      "name_ru": "Ино Яманака",
+      "image": "https://ultramunch.com/wp-content/uploads/2021/03/20210312_095730-1.jpg"
+    },
+    {
+      "id": 38,
+      "name_ru": "СИНОМИЯ СААН",
+      "image": "https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/d/d0/005-55.png/revision/latest?cb=20190127162604"
+    },
+    {
+      "id": 39,
+      "name_ru": "Kuro no Rider",
+      "image": "https://i.pinimg.com/originals/21/61/fa/2161fa8eb1638d59d18518de9105799e.jpg"
+    },
+    {
+      "id": 40,
+      "name_ru": "Конан",
+      "image": "https://phonoteka.org/uploads/posts/2021-07/thumbs/1625698787_32-phonoteka-org-p-konan-khayumi-art-krasivo-33.jpg"
+    }
+  ]
+}

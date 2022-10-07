@@ -1,0 +1,31 @@
+{
+  "page": 3,
+  "next": 4,
+  "characters": [
+    {
+      "id": 11,
+      "name_ru": "Лиза Джостар",
+      "image": "https://i.pinimg.com/originals/aa/59/d4/aa59d4ff77a9804f0d421fad698813ea.jpg"
+    },
+    {
+      "id": 12,
+      "name_ru": "Ророноа Зоро",
+      "image": "https://i.pinimg.com/736x/dd/87/9b/dd879b2ed27897e7b4e5633f60994b07.jpg"
+    },
+    {
+      "id": 13,
+      "name_ru": "2B",
+      "image": "https://i.pinimg.com/originals/2d/28/fa/2d28faab68f841375599f9cacf53abdb.jpg"
+    },
+    {
+      "id": 14,
+      "name_ru": "Asa Mitaki",
+      "image": "https://i.pinimg.com/236x/74/8d/2b/748d2b53ee1ecd95ecdb6ad3fcac8004.jpg"
+    },
+    {
+      "id": 15,
+      "name_ru": "Гурен",
+      "image": "https://i1.sndcdn.com/artworks-0AyfhakgkWTdcaKG-bbwixw-t500x500.jpg"
+    }
+  ]
+}

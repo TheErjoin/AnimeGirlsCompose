@@ -1,0 +1,31 @@
+{
+  "page": 6,
+  "next": 7,
+  "characters": [
+    {
+      "id": 26,
+      "name_ru": "Тосака Рин",
+      "image": "https://pibig.info/uploads/posts/2021-04/1619037431_21-pibig_info-p-tosaka-rin-anime-krasivo-29.jpg"
+    },
+    {
+      "id": 27,
+      "name_ru": "Сакура Мато",
+      "image": "https://static.wikia.nocookie.net/typemoon/images/f/f2/179.jpg/revision/latest/scale-to-width-down/1920?cb=20150927162304&path-prefix=ru"
+    },
+    {
+      "id": 28,
+      "name_ru": "Ай Хаясака",
+      "image": "https://i.ytimg.com/vi/OBMiZlmSZhA/maxresdefault.jpg"
+    },
+    {
+      "id": 29,
+      "name_ru": "Иштар",
+      "image": "https://cs11.pikabu.ru/post_img/big/2019/12/24/9/157719771016033460.jpg"
+    },
+    {
+      "id": 30,
+      "name_ru": "Маширо Шино",
+      "image": "https://static.wikia.nocookie.net/sakurasounopetnakanojo/images/5/5e/Mashiro_Shiina.jpg/revision/latest?cb=20180704204427"
+    }
+  ]
+}

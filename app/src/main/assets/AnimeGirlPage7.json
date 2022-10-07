@@ -1,0 +1,31 @@
+{
+  "page": 7,
+  "next": 8,
+  "characters": [
+    {
+      "id": 31,
+      "name_ru": "Май Сакураджима",
+      "image": "https://i.ytimg.com/vi/zK709YzgAT8/maxresdefault.jpg"
+    },
+    {
+      "id": 32,
+      "name_ru": "Аянами Рей",
+      "image": "https://janbox.com/blog/wp-content/uploads/2022/06/Ayanami_Rei_in_anime.jpg"
+    },
+    {
+      "id": 33,
+      "name_ru": "Кушина Узумаки",
+      "image": "https://staticc.sportskeeda.com/editor/2022/07/e8620-16578236091910-1920.jpg"
+    },
+    {
+      "id": 34,
+      "name_ru": "Йоруичи Шиноин",
+      "image": "https://sportshub.cbsistatic.com/i/2022/04/12/c8159605-fea4-4c62-833c-cb3ca0d6b0cc/bleach-thousand-year-blood-war-yoruichi.jpg"
+    },
+    {
+      "id": 35,
+      "name_ru": "Нами",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/09/One-Piece-Nami.jpg"
+    }
+  ]
+}

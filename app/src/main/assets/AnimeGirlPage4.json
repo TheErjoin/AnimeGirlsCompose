@@ -1,0 +1,31 @@
+{
+  "page": 4,
+  "next": 5,
+  "characters": [
+    {
+      "id": 16,
+      "name_ru": "Курису Макисе",
+      "image": "https://img3.goodfon.ru/wallpaper/nbig/4/80/art-aituoku-twh-anime-steins.jpg"
+    },
+    {
+      "id": 17,
+      "name_ru": "Аска Ланглей",
+      "image": "https://thicc.mywaifulist.moe/waifus/213/635d8742dc9d8307d7afb81ca1fa3153f83ff67d0d46a88a3acd52f7c17dd396_thumb.png"
+    },
+    {
+      "id": 18,
+      "name_ru": "C.C",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/2/2c/C.C._%28Code_Geass%29.jpg"
+    },
+    {
+      "id": 19,
+      "name_ru": "Ехидна",
+      "image": "https://cdna.artstation.com/p/assets/images/images/028/870/388/large/zie-arts-image0-1.jpg?1595779254"
+    },
+    {
+      "id": 20,
+      "name_ru": "Фубуки",
+      "image": "https://img2.goodfon.ru/original/1280x720/0/17/anime-art-one-punch-man-fubuki-devushka-gorod.jpg"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "page": 5,
+  "next": 6,
+  "characters": [
+    {
+      "id": 21,
+      "name_ru": "Псикоз",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/07/one-punch-man-psychos-header.png"
+    },
+    {
+      "id": 22,
+      "name_ru": "Сейберс",
+      "image": "https://img.besthqwallpapers.com/Uploads/8-2-2018/39993/saber-art-fate-prototype-manga-saber-alter.jpg"
+    },
+    {
+      "id": 23,
+      "name_ru": "Йор Форджер",
+      "image": "https://i-ogp.pximg.net/c/w1200_q80_a2_g1_u1_cr0:0.134:1:0.504/img-master/img/2022/04/19/18/21/45/97736682_p0_master1200.jpg"
+    },
+    {
+      "id": 24,
+      "name_ru": "Кандронжи Мисури",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/02/15/1587829159.png"
+    },
+    {
+      "id": 25,
+      "name_ru": "Рем",
+      "image": "https://wegotthiscovered.com/wp-content/uploads/2021/06/Rem.jpeg"
+    }
+  ]
+}
